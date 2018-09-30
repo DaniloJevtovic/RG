@@ -1,0 +1,29 @@
+C:\Users\Lemur\Desktop\GRAFIKA\AssimpSample\AssimpSample\bin\Release\AssimpSample.exe.config
+C:\Users\Lemur\Desktop\GRAFIKA\AssimpSample\AssimpSample\bin\Release\AssimpLib\Assimp32.dll
+C:\Users\Lemur\Desktop\GRAFIKA\AssimpSample\AssimpSample\bin\Release\AssimpLib\Assimp64.dll
+C:\Users\Lemur\Desktop\GRAFIKA\AssimpSample\AssimpSample\bin\Release\AssimpLib\AssimpNet.dll
+C:\Users\Lemur\Desktop\GRAFIKA\AssimpSample\AssimpSample\bin\Release\3D Models\Arrow\arrow.dae
+C:\Users\Lemur\Desktop\GRAFIKA\AssimpSample\AssimpSample\bin\Release\3D Models\Arrow\Arrow.obj
+C:\Users\Lemur\Desktop\GRAFIKA\AssimpSample\AssimpSample\bin\Release\3D Models\Arrow\arrow3.obj
+C:\Users\Lemur\Desktop\GRAFIKA\AssimpSample\AssimpSample\bin\Release\3D Models\Arrow\arrow4.obj
+C:\Users\Lemur\Desktop\GRAFIKA\AssimpSample\AssimpSample\bin\Release\3D Models\Arrow\arrow5.obj
+C:\Users\Lemur\Desktop\GRAFIKA\AssimpSample\AssimpSample\bin\Release\3D Models\Castle\Castle.obj
+C:\Users\Lemur\Desktop\GRAFIKA\AssimpSample\AssimpSample\bin\Release\3D Models\Castle\castle2.obj
+C:\Users\Lemur\Desktop\GRAFIKA\AssimpSample\AssimpSample\bin\Release\3D Models\Castle\castle3.obj
+C:\Users\Lemur\Desktop\GRAFIKA\AssimpSample\AssimpSample\bin\Release\AssimpSample.exe
+C:\Users\Lemur\Desktop\GRAFIKA\AssimpSample\AssimpSample\bin\Release\AssimpSample.pdb
+C:\Users\Lemur\Desktop\GRAFIKA\AssimpSample\AssimpSample\bin\Release\AssimpNet.dll
+C:\Users\Lemur\Desktop\GRAFIKA\AssimpSample\AssimpSample\bin\Release\SharpGL.dll
+C:\Users\Lemur\Desktop\GRAFIKA\AssimpSample\AssimpSample\bin\Release\SharpGL.SceneGraph.dll
+C:\Users\Lemur\Desktop\GRAFIKA\AssimpSample\AssimpSample\bin\Release\SharpGL.WPF.dll
+C:\Users\Lemur\Desktop\GRAFIKA\AssimpSample\AssimpSample\obj\x86\Release\AssimpSample.csprojResolveAssemblyReference.cache
+C:\Users\Lemur\Desktop\GRAFIKA\AssimpSample\AssimpSample\obj\x86\Release\MainWindow.baml
+C:\Users\Lemur\Desktop\GRAFIKA\AssimpSample\AssimpSample\obj\x86\Release\MainWindow.g.cs
+C:\Users\Lemur\Desktop\GRAFIKA\AssimpSample\AssimpSample\obj\x86\Release\App.g.cs
+C:\Users\Lemur\Desktop\GRAFIKA\AssimpSample\AssimpSample\obj\x86\Release\AssimpSample_Content.g.cs
+C:\Users\Lemur\Desktop\GRAFIKA\AssimpSample\AssimpSample\obj\x86\Release\AssimpSample_MarkupCompile.cache
+C:\Users\Lemur\Desktop\GRAFIKA\AssimpSample\AssimpSample\obj\x86\Release\AssimpSample.g.resources
+C:\Users\Lemur\Desktop\GRAFIKA\AssimpSample\AssimpSample\obj\x86\Release\AssimpSample.Properties.Resources.resources
+C:\Users\Lemur\Desktop\GRAFIKA\AssimpSample\AssimpSample\obj\x86\Release\AssimpSample.csproj.GenerateResource.Cache
+C:\Users\Lemur\Desktop\GRAFIKA\AssimpSample\AssimpSample\obj\x86\Release\AssimpSample.exe
+C:\Users\Lemur\Desktop\GRAFIKA\AssimpSample\AssimpSample\obj\x86\Release\AssimpSample.pdb
